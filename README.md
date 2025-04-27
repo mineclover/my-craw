@@ -6,7 +6,8 @@ uv sync
 1. 의존성 설치:
 
 ```
-pip install fastapi uvicorn sqlalchemy
+uv add ~
+uv sync
 ```
 
 2. 앱 실행:
